@@ -1,0 +1,6 @@
+E:\Nerd Castle\Training\Evening Batch\Day6\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+E:\Nerd Castle\Training\Evening Batch\Day6\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+E:\Nerd Castle\Training\Evening Batch\Day6\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+E:\Nerd Castle\Training\Evening Batch\Day6\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojResolveAssemblyReference.cache
+E:\Nerd Castle\Training\Evening Batch\Day6\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+E:\Nerd Castle\Training\Evening Batch\Day6\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb
